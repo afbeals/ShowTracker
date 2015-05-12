@@ -1,4 +1,3 @@
 This is my frist solo project!
 
-I'm creating an app that will help to track television shows watch to help the user keep
-track of all their currently watched shows.
+Tracker will be an application that will allow the user to keep track of the episodes theyve watched.
